@@ -1,2 +1,2 @@
-# learn.unreal.russel.class101
+# learn.unreal.russell.class101
 Learning Unreal Engine by Russel
